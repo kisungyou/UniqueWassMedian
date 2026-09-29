@@ -2,7 +2,7 @@
 
 This repository reproduces Figure 1 of the manuscript titled **Uniqueness of Wasserstein medians under compatible transport**. It features the following Jupyter notebook:
 
-- [`gaussian-contamination.ipynb`](fgaussian-contamination.ipynb): a self-contained, executed notebook with the simulation, solvers, checks, and figure.
+- [`gaussian-contamination.ipynb`](gaussian-contamination.ipynb): a self-contained, executed notebook with the simulation, solvers, checks, and figure.
 
 The notebook generates all inputs from a fixed random seed and recomputes every curve point. It does not read external data, access the network, or depend on the manuscript source. The figure is embedded in the notebook, so no separate image or data files are needed.
 
